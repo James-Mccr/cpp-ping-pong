@@ -1,0 +1,9 @@
+C++ Project that simulates a ping pong ball around a terminal. 
+
+--Libraries--
+The program expects to find the following installed libraries on your machine:
+ncurses
+sdl2_mixer
+
+--Compile--
+g++ *.cpp -lncurses -lSDL2_mixer
